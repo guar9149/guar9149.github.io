@@ -1,0 +1,38 @@
+h1{
+	text-align: center;
+	font-size: 50px;
+	background-color:#990033;
+	padding: 20px;
+	margin: 10px;
+	letter-spacing: 2px;
+}
+
+figcaption{
+	text-align: center;
+	font-size: 20px;
+	color: #330000;
+}
+
+p{
+	text-align: center;
+	font-size: 30px;
+	color: #330000;
+}
+
+h2{
+  text-align: left;
+  font-family: serif;
+  color: #330000;
+}
+
+img{
+  border-radius: 30px;
+  margin: 0 auto;
+  display: block;
+}
+
+body{
+  background-color: #ffffe6;
+}
+
+
